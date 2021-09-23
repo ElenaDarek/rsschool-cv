@@ -45,3 +45,19 @@ function testStr(a, b) {
 }
 ```
 
+# Education
+
+* **Web-designer** at ITMO University (advanced training)
+* **Bachelor in Linguistics** at Nevsky Institute of Language and Culture
+* **Specialist (Manager)** at North-West Academy of Civil Service
+
+# Experience
+
+* 2014.10 - 2019.03: Localization Group Team Lead (and Software Test Engineer) at EGO Translating Company
+* 2019.03 - Тo date: Localization Group Team Lead (and Software Test Engineer) at EGO Translating Company
+
+# Languages
+
+- Russian - Native
+- English - Intermediate/Upper-intermediate
+
